@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <trkseg>
+      <trkpt lat="45.50259925" lon="9.33593477">
+        <time>2019-10-27T08:13:42.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50257252" lon="9.33590392">
+        <time>2019-10-27T08:13:45.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50253107" lon="9.33588151">
+        <time>2019-10-27T08:13:48.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50248412" lon="9.3358675">
+        <time>2019-10-27T08:13:51.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50236863" lon="9.33578726">
+        <time>2019-10-27T08:13:57.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50231945" lon="9.33573244">
+        <time>2019-10-27T08:14:00.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50227492" lon="9.33566885">
+        <time>2019-10-27T08:14:03.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50222773" lon="9.33560012">
+        <time>2019-10-27T08:14:06.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50214538" lon="9.33544435">
+        <time>2019-10-27T08:14:12.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50210719" lon="9.33524012">
+        <time>2019-10-27T08:14:18.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50209067" lon="9.33513788">
+        <time>2019-10-27T08:14:21.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50208697" lon="9.33503329">
+        <time>2019-10-27T08:14:24.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50207767" lon="9.33483303">
+        <time>2019-10-27T08:14:30.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50208307" lon="9.33473329">
+        <time>2019-10-27T08:14:33.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.5020875" lon="9.33462871">
+        <time>2019-10-27T08:14:36.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50210564" lon="9.33445775">
+        <time>2019-10-27T08:14:42.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50230372" lon="9.33425703">
+        <time>2019-10-27T08:14:54.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50244017" lon="9.33428736">
+        <time>2019-10-27T08:15:00.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50256919" lon="9.33449123">
+        <time>2019-10-27T08:15:09.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50258452" lon="9.33456283">
+        <time>2019-10-27T08:15:12.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50267397" lon="9.33475144">
+        <time>2019-10-27T08:15:18.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50271345" lon="9.33485405">
+        <time>2019-10-27T08:15:21.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50280582" lon="9.33512446">
+        <time>2019-10-27T08:15:30.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50284214" lon="9.33530165">
+        <time>2019-10-27T08:15:36.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.5028584" lon="9.33540366">
+        <time>2019-10-27T08:15:39.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50284684" lon="9.33562797">
+        <time>2019-10-27T08:15:45.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50282696" lon="9.33573997">
+        <time>2019-10-27T08:15:48.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50282354" lon="9.33583235">
+        <time>2019-10-27T08:15:51.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50292691" lon="9.33607802">
+        <time>2019-10-27T08:16:03.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50304863" lon="9.33610141">
+        <time>2019-10-27T08:16:09.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50311775" lon="9.33609713">
+        <time>2019-10-27T08:16:12.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50317038" lon="9.33611274">
+        <time>2019-10-27T08:16:15.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.5031856" lon="9.3361279">
+        <time>2019-10-27T08:16:18.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.503192" lon="9.33614247">
+        <time>2019-10-27T08:16:21.772000Z</time>
+      </trkpt>
+      <trkpt lat="45.50324068" lon="9.33612548">
+        <time>2019-10-27T08:16:24.772000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
