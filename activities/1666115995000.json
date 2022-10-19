@@ -1,0 +1,37 @@
+{
+    "id": "620a80bbaee4e64fbf84aded3f9f34f77424e40bbe9ed6168495e113b3195c70",
+    "type": "walk",
+    "app_id": "com.garmin.garmin",
+    "start_epoch_ms": 1666115993000,
+    "end_epoch_ms": 1666115995000,
+    "last_modified": 1666116011301,
+    "active_duration_ms": 1000,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [],
+    "sources": [
+        "com.garmin.garmin.4063"
+    ],
+    "tags": {},
+    "change_tokens": [
+        "6bbcc755eee526ef9807328f44240d0608dc549d53c3a00110917ee8ada72d8a:1666116011301"
+    ],
+    "metric_types": [],
+    "metrics": [],
+    "moments": [
+        {
+            "key": "lap",
+            "value": "1",
+            "timestamp": 1666115993000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.4063"
+        },
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1666115995000,
+            "app_id": "com.garmin.garmin",
+            "source": "com.garmin.garmin.4063"
+        }
+    ]
+}
